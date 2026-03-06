@@ -19,6 +19,7 @@ Hi! I'm a developer passionate about building efficient web solutions. With a st
 
 ### 📊 Highlights & Metrics
 
+
 - 🎓 **Bachelor's Degree:** Information Technology (UNIVESP)
 - 🏆 **Logic Expert:** 1200+ programming challenges solved.
 - 📜 **Continuous Learner:** 47+ certifications (Alura, DIO, FreeCodeCamp).
@@ -37,5 +38,5 @@ Hi! I'm a developer passionate about building efficient web solutions. With a st
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janilucia-gomes-82369b2a7)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janilucciaponto2014@gmail.com)
+[!www.linkedin.com/in/janilucia-gomes-82369b2a7(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janilucia-gomes-82369b2a7)
+[!janilucciaponto2014@gmail.com(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janilucciaponto2014@gmail.com)
